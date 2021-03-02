@@ -44,7 +44,6 @@ class color:
 
 print(color.BOLD + color.RED + '\nLeechy Labs | Spectrum Analyser\n' + color.END)
 
-
 drunkdatanum = 0
 not_drunkdatanum = 0
 
@@ -314,7 +313,7 @@ while rval:
 				workbook.close()
 				break
 		break
-	
+
 	elif key == ord("k"):
 		cmp_graph = graph
 		nor_color = (0,1,0)
