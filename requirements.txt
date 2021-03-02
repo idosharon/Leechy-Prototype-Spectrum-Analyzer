@@ -1,0 +1,7 @@
+XlsxWriter
+pickleshare
+pyobjc-framework-SystemConfiguration
+imutils
+numpy
+matplotlib
+Pillow
