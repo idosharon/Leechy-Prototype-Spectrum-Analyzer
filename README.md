@@ -1,6 +1,6 @@
 ## Leechy Prototype Software
 
-#### setup
+#### Setup
 Setup the folder structure like this:
 
 - Expriences
