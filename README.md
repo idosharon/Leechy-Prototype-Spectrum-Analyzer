@@ -1,5 +1,7 @@
 ## Leechy Prototype Software
 
+![Prototype Image](https://i.ibb.co/tqq4xZr/leechy-prototype-1-2.jpg)
+
 ## Setup
 
 1. Install Python 🐍
