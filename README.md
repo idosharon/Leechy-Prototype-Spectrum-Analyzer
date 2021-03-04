@@ -1,7 +1,7 @@
 ## Leechy Prototype Software
 
 #### Setup
-Setup the folder structure like this:
+Inizialize the project with those commands:
 
 - Expriences
 
