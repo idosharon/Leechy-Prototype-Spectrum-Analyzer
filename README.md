@@ -1,6 +1,6 @@
 ## Leechy Prototype Software
 
-## Setup
+### Setup
 
 1. Install Python 🐍
 
@@ -18,7 +18,7 @@ sudo mkdir data data/graph data/graph/drunk data/graph/not_drunk \
 pip install --user -r requirements.txt
 ```
     
-## Imports
+### Imports
 
 ```python
 import cv2, pickle, xlsxwriter, time, datetime, os, os.path
@@ -29,12 +29,12 @@ from matplotlib.widgets import Button
 from PIL import Image, ImageTk
 ```
 
-## Get Started
+### Get Started
 
 **MAKE SURE KEYBOARD IS ON ENGLISH AND CAPSLOCK ISN'T ON!**
 After doing all the setup connect the prototype and run the python script with ```py main.py```. 
 
-## Control The Program
+### Control The Program
 
 To control the basic things in the software, after putting the finger inside the prototype and seeing the input from the camera on the screen there are several basic commands you can do:
 - select the spectrum manually with the mouse.
@@ -45,12 +45,12 @@ To control the basic things in the software, after putting the finger inside the
 - "k" - save current graph as "not drunk" for comparsion, only at live mode.
 - "g" - pause the all program.
 
-## Author
+### Author
 
 Made by **Leechy** from Ido Sharon, Ori Cohen, Itay Cohen and Nadav Aviran. <br/>
 Written in pure python. 🐍
 
-## Copyright License
+### Copyright License
 ```
 MIT License
 
