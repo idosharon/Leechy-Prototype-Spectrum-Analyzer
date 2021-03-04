@@ -50,6 +50,7 @@ To control the basic things in the software, after putting the finger inside the
 ## Author
 
 Made by **Leechy** from Ido Sharon, Ori Cohen, Itay Cohen and Nadav Aviran.
+Written in pure python. 🐍
 
 ## Copyright License
 ```
