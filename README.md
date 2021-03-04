@@ -47,6 +47,11 @@ To control the basic things in the software, after putting the finger inside the
 - "k" - save current graph as "not drunk" for comparsion, only at live mode.
 - "g" - pause the all program.
 
+## Author
+
+Made by Leechy.
+Ido Sharon, Ori Cohen, Itay Cohen and Nadav Aviran.
+
 ## Copyright License
 ```
 MIT License
