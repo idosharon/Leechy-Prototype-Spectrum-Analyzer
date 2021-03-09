@@ -1,11 +1,9 @@
-## Leechy Prototype Software
+# Prototype Software
 
-### Setup
+## Setup
 
 1. Install Python 🐍
-
-2.  Use the package manager pip to install selenium and the other packages 📦.
-
+2. Use the package manager pip to install selenium and the other packages 📦.
 3. Run those commands from the folder:
 
 ```bash
@@ -17,8 +15,8 @@ sudo mkdir data data/graph data/graph/drunk data/graph/not_drunk \
 ```bash
 pip install --user -r requirements.txt
 ```
-    
-### Imports
+
+## Imports
 
 ```python
 import cv2, pickle, xlsxwriter, time, datetime, os, os.path
@@ -29,29 +27,30 @@ from matplotlib.widgets import Button
 from PIL import Image, ImageTk
 ```
 
-### Get Started
+## Get Started
 
-**MAKE SURE KEYBOARD IS ON ENGLISH AND CAPSLOCK ISN'T ON!**
-After doing all the setup connect the prototype and run the python script with ```py main.py```. 
+**MAKE SURE KEYBOARD IS ON ENGLISH AND CAPSLOCK ISN'T ON!** After doing all the setup connect the prototype and run the python script with `py main.py`.
 
-### Control The Program
+## Control The Program
 
 To control the basic things in the software, after putting the finger inside the prototype and seeing the input from the camera on the screen there are several basic commands you can do:
-- select the spectrum manually with the mouse.
-- "/" - autofind the spectrum.
-- "p" - plotting the spectrum (only after locking on it).
-- "o" - close the graph.
-- "l" - live mode, the graph will always change in real time.
-- "k" - save current graph as "not drunk" for comparsion, only at live mode.
-- "g" - pause the all program.
 
-### Author
+* select the spectrum manually with the mouse.
+* "/" - autofind the spectrum.
+* "p" - plotting the spectrum \(only after locking on it\).
+* "o" - close the graph.
+* "l" - live mode, the graph will always change in real time.
+* "k" - save current graph as "not drunk" for comparsion, only at live mode.
+* "g" - pause the all program.
 
-Made by **Leechy** from Ido Sharon, Ori Cohen, Itay Cohen and Nadav Aviran. <br/>
-Written in pure python. 🐍
+## Author
 
-### Copyright License
-```
+Made by **Leechy** from Ido Sharon, Ori Cohen, Itay Cohen and Nadav Aviran.   
+ Written in pure python. 🐍
+
+## Copyright License
+
+```text
 MIT License
 
 Copyright (c) 2020 Ido Sharon
@@ -74,3 +73,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
