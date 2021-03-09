@@ -29,7 +29,9 @@ from PIL import Image, ImageTk
 
 ## Get Started
 
-**MAKE SURE KEYBOARD IS ON ENGLISH AND CAPSLOCK ISN'T ON!** After doing all the setup connect the prototype and run the python script with `py main.py`.
+**MAKE SURE KEYBOARD IS ON ENGLISH AND CAPSLOCK ISN'T ON!** 
+
+After doing all the setup connect the prototype and run the python script with `py main.py`.
 
 ## Control The Program
 
